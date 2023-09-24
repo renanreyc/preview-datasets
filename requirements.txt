@@ -1,0 +1,9 @@
+openpyxl
+python-dotenv
+tqdm
+
+pandas
+
+ydata-profiling
+matplotlib==3.7.3
+# tkinter sudo apt-get install python3-tk 
