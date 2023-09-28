@@ -3,6 +3,7 @@ python-dotenv
 tqdm
 
 pandas
+pyxlsb
 
 ydata-profiling
 matplotlib==3.7.3
